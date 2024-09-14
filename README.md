@@ -21,3 +21,13 @@ Enhancements coming soon:
 1. Clone the repository:  
    ```bash
    git clone https://github.com/yourusername/ip-port-scanner.git
+   Navigate to the project directory:
+
+   cd ip-port-scanner
+
+   Install required dependencies:
+
+   pip install -r requirements.txt
+
+   Run the script:
+   python ip_port_scanner.py
