@@ -21,8 +21,6 @@ Enhancements coming soon:
 1. Clone the repository:  
    ```bash
 
-   cd ip-port-scanner
-
    Install required dependencies:
 
    pip install -r requirements.txt
