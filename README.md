@@ -20,7 +20,7 @@ Enhancements coming soon:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/ip-port-scanner.git
+   git clone https://github.com/dataexepy/ip-port-scanner/tree/main
    Navigate to the project directory:
 
    cd ip-port-scanner
